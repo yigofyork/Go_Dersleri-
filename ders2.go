@@ -8,7 +8,7 @@ func main() {
 	var yetiskinmi bool // bool = true/false
 
 	isim_soyisim = "Yiğit GÜRBULAK"
-	yas = 17
+	yas = // yaşınız ne ise
 	yetiskinmi = false
 
 	fmt.Println("İsim Soyisim: ", isim_soyisim)
