@@ -1,2 +1,2 @@
 # Go_Dersleri-
-Golang dili kursunda öğrendiklerimi ve küçük projeler yayınlıyorum 
+Golang dili kursunda öğrendiklerimi ve bazı küçük projeleri yayınlıyorum 
