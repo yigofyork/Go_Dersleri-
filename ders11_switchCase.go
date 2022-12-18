@@ -8,7 +8,7 @@ func main() {
 	fmt.Scanln(&hesap)
 
 	switch hesap {
-	case 1, 5:
+	case 1, 5:           // aynı anda bazen birden fazla sayı yazılabilir. Bu sonucu değiştirmez sadece birden fazla isteği aynı sonucu verir.
 		fmt.Println("Hesap 1'e bağlanılıyor ...")
 	case 2, 6:
 		fmt.Println("Hesap 2'ye bağlanılıyor ...")
